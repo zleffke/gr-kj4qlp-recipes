@@ -21,9 +21,7 @@ category: common
 depends:
 - gnuradio
 description: SigMF GNU Radio Blocks
-#gitbranch: v1.1.5
 gitbranch: master
 inherit: cmake
 # No satisfy lines here -- there's no reason not to always install this from source.
-#source: git+https://github.com/skysafe/gr-sigmf.git
-source: git+https://github.com/ctriant/gr-sigmf.git
+source: git+https://github.com/skysafe/gr-sigmf.git
