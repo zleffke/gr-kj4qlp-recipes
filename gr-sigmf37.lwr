@@ -25,5 +25,5 @@ description: SigMF GNU Radio Blocks
 #gitbranch is set to v2.0.0 tag which is last gr3.7 version
 gitbranch: v2.0.0
 inherit: cmake
-satisfy: gr-sigmf
+#satisfy: gr-sigmf
 source: git+https://github.com/skysafe/gr-sigmf.git
