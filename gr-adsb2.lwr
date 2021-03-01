@@ -20,7 +20,7 @@
 category: common
 depends:
 - gnuradio
-description: GNU Radio ADSB decoder and framer
+description: GNU Radio ADSB decoder and framer, GNU Radio 3.8 compatible
 gitbranch: master
 inherit: cmake
 source: git+https://github.com/mhostetter/gr-adsb.git
