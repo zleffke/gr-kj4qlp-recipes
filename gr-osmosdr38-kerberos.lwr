@@ -25,7 +25,7 @@ depends:
 - hackrf
 - gnuradio
 - gr-iqbal
-- bladeRF
+#- bladeRF
 - airspy
 - airspyhf
 - soapysdr
