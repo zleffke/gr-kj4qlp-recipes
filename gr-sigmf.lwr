@@ -22,7 +22,7 @@ depends:
 - gnuradio
 - rapidjson
 description: SigMF GNU Radio Blocks
-gitbranch: master
+gitbranch: maint-3.8
 inherit: cmake
 # No satisfy lines here -- there's no reason not to always install this from source.
 source: git+https://github.com/skysafe/gr-sigmf.git
